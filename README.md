@@ -68,6 +68,7 @@ Heres a list of some of the next planned updates:
 - Rich Text Editor
 - Video clip/gif upload
 - Bookmarks
+- Human checks
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
