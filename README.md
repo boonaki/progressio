@@ -1,5 +1,5 @@
 ﻿# PROGRESSIO
-A place to track progress in any hobby or activity.
+A place to track and organize the progress one makes in any hobby or activity they have interest in.
 
 **Link to project:** http://progress.cyclic.app
 
