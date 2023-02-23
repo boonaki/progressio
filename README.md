@@ -48,6 +48,8 @@ No matter what option you pick, personal information on the site is encrypted.
 
 Many optimizations have been made throughout the course of development, most notably being the switch from arrays to objects. The feed page had multiple `includes()` array methods nested within eachother. This caused the render-time, for the page featuring the most data, to be `O(n^3)`. Switching from an array to an object to store data gave me the ability to look up properties in the object in constant time, effectively making the worse-case runtime simply be `O(n)` rather than `O(n^3)`. Although it's still not ideal, it is far better than what was implemented before.
 
+Additionally, I was able to rewrite the styling from CSS3 to Tailwind, for easier modification to the project and to improve reusability. The entire project was previously entirely styled using CSS3, but Tailwind's ease-of-use was very persuasive in the decision to switch.
+
 Heres a list of some of the next planned updates:
 - ~~Search Functionality~~
 - ~~Implement Tailwind for reusuable styles~~
