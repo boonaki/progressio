@@ -10,7 +10,7 @@ HTML5, CSS3, JavaScript, MongoDB, Mongoose, Passport, EJS, Express, Multer, Node
 
 ## How It's Made:
 
-Users can create accounts and login. When logged in, they can edit their profile, create progress reels and create captures within those reels. The idea is that anyone would be able to see or track progress of anyone and their hobbies, if they wish to share. Signup requires unique usernames and emails, with a confirm password input. Users can also follow each other and view the followers they have.
+Users can create accounts and login. When logged in, they can edit their profile, create progress reels and create captures within those reels. The idea is that anyone would be able to see the progress of anyone and their hobbies, if the user so wishes to share that progress. Signup requires unique usernames and emails, but sign-in with their e-mail. Users can also follow each other and view the followers they have.
 
 <img src="imgs/pio1">
 
