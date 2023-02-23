@@ -36,7 +36,7 @@ Within the reel view like specific captures within the reel, or check out specif
 
 ## Social and the Feed
 
-Within the feed, you can see all captures only made by people you currently follow, as well as your posts. From there you can like and comment on posts. Also within the feed, you can search for your own hobbies or interests to find captures and reels made by other people with those same hobbies or interests, or . If nothing found, why not start it?
+Within the feed, you can see all captures only made by people you currently follow, as well as your posts. From there you can like and comment on posts. Also within the feed, you can search for your own hobbies or interests to find captures and reels made by other people with those same hobbies or interests. If nothing found, why not start it?
 
 <img src="imgs/pio5">
 
