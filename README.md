@@ -1,5 +1,5 @@
 ﻿# PROGRESSIO
-A place to post, organize and share the progress people make in any hobby or activity they have interest in.
+A place to post, organize and share the progress you make in any hobby or activity you have interest in.
 
 **Link to project:** http://progress.cyclic.app
 
