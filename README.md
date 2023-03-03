@@ -10,7 +10,7 @@ HTML5, TailwindCSS, CSS3, JavaScript, MongoDB, Mongoose, Passport, EJS, Express,
 
 ## How It's Made:
 
-This platform allows users to easily create an account and log in, enabling them to manage their profiles, create progress reels, and capture their progress within those reels. The goal is to provide a space where users can share their hobbies and progress with others who are interested in following those journeys. During the signup process, you are required to provide unique usernames and emails, but you can sign in with your email address. Additionally, users can follow one another and view their followers.
+This platform allows you to easily create an account and log in, enabling you to manage their profiles, create progress reels, and capture your progress within those reels. During the signup process, you are required to provide unique usernames and emails, but you can sign in with your email address. Additionally, users can follow one another and view their followers. The goal is to provide a space where you can organize and reflect on your growth, with the added benefit of being able to share your progress with others who are interested in following those journeys.
 
 <img src="imgs/pio1">
 
