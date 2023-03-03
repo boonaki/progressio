@@ -10,13 +10,13 @@ HTML5, TailwindCSS, CSS3, JavaScript, MongoDB, Mongoose, Passport, EJS, Express,
 
 ## How It's Made:
 
-This platform allows you to easily create an account and log in, enabling you to manage their profiles, create progress reels, and capture your progress within those reels. During the signup process, you are required to provide unique usernames and emails, but you can sign in with your email address. Additionally, users can follow one another and view their followers. The goal is to provide a space where you can organize and reflect on your growth, with the added benefit of being able to share your progress with others who are interested in following those journeys.
+The goal of this platform is to provide a space where you can organize and reflect on your growth, with the added benefit of being able to share your progress with others who are interested in following those journeys. This platform allows you to create an account, enabling you to manage your profile, create progress reels, and capture your progress within those reels. During the signup process, you are required to provide unique usernames and emails, but you can sign in using the email address used on signup. Additionally, users can follow one another and view their followers.
 
 <img src="imgs/pio1">
 
 ## Organizing your progress with the Progress Reel
 
-To start, first you would need to create a reel, which can be seen as a folder for your progress. To do so, navigate to your profile page, then click the "create reel" button on the left hand side (desktop) or at the top of the page (mobile). From there, a popup will appear where you can provide a title for your interest or hobby, as well as a brief description of the reel.
+To start, after creating an account, first you would need to create a reel, which can be seen as a folder for your progress. To do so, navigate to your profile page, then click the "create reel" button on the left hand side (desktop) or at the top of the page (mobile). From there, a popup will appear where you can provide a title for your interest or hobby, as well as a brief description of the reel.
 
 <img src="imgs/pio2">
 
