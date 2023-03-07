@@ -1,6 +1,8 @@
 ﻿# PROGRESSIO
 A place to post, organize and share the progress you make in any hobby or activity you have interest in.
 
+**[Note: The frontend has since been updated with Tailwind + new features, the gifs preview the application with its previous CSS3 styling.]**
+
 **Link to project:** http://progress.cyclic.app
 
 <!-- ![alt tag](http://placecorgi.com/1200/650) -->
