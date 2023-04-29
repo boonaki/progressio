@@ -42,7 +42,7 @@ Within the feed, you can see all captures only made by people you currently foll
 
 <img src="imgs/pio5">
 
-## Privacy
+## Visibility
 
 Being able to find the progress of others to act as a reference for your own journey is one of the many goals I wanted to reach with this project, but I do understand some may not want their progress to be shared to the world. So to help overcome that, users can hide their profile and progress from public view, where only friends can see the progress. This option has also been extended to individual progress reels, so incase you want a public account but with specific private reels, that is also possible.
 
